@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/cyber_banner.gif" alt="cyber banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/neon_city_banner.gif?v=1" alt="cyber banner" width="100%" />
 </p>
 
 <h1 align="center">
