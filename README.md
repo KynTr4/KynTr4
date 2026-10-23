@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/cyber_banner.gif" alt="cyber banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/cyber_banner.gif" alt="cyber banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="assets/glitch_name.gif" alt="Miraç // KynTr4" width="420" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/glitch_name.gif" alt="Miraç // KynTr4" width="420" />
 </h1>
 
 <p align="center">
@@ -36,8 +36,8 @@ I like building things that feel a little alive: local LLM experiments, Python t
 No corporate CV here — just a personal lab with neon lights and too many ideas.
 
 <p align="center">
-  <img src="assets/orb.gif" alt="orb" width="180" />
-  <img src="assets/neon_grid.gif" alt="neon grid" width="300" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/orb.gif" alt="orb" width="180" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/neon_grid.gif" alt="neon grid" width="300" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ No corporate CV here — just a personal lab with neon lights and too many ideas
 <summary>enter the secret room (click)</summary>
 
 <p align="center">
-  <img src="assets/matrix_rain.gif" alt="matrix rain" width="320" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/matrix_rain.gif" alt="matrix rain" width="320" />
 </p>
 
 You found the hidden layer.  
@@ -110,7 +110,7 @@ If you see something strange in my repos, it is probably an experiment. Or a fea
 </p>
 
 <p align="center">
-  <img src="assets/orb.gif" alt="orb" width="120" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/main/assets/orb.gif" alt="orb" width="120" />
 </p>
 
 <sub>built with curiosity, caffeine, and a lot of `git commit -m "fix"`</sub>
