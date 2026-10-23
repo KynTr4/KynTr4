@@ -15,6 +15,16 @@
   <img alt="python" src="https://img.shields.io/badge/python-native-a855f7?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/vibe_coding.gif" alt="vibe coding" width="300" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/local_ai.gif" alt="local ai" width="130" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/ship_it.gif" alt="ship it" width="160" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/vibe_pulse.gif" alt="vibe pulse" width="130" />
+</p>
+
 ---
 
 ## 🧠 About
