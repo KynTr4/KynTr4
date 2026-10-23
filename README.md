@@ -2,155 +2,102 @@
   <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/neon_city_banner.gif?v=1" alt="neon city banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/glitch_name.gif" alt="Miraç // KynTr4" width="420" />
-</h1>
+<h1 align="center">Miraç Cevahiroğlu</h1>
 
 <p align="center">
-  <code>user@kyntr4:~$ whoami</code><br/>
-  <strong>Miraç Cevahiroğlu</strong> · <em>KynTr4</em> · İstanbul<br/>
-  <sub>builder of small digital worlds · local AI tinkerer · vibe coder</sub>
+  <strong>Software Developer · AI &amp; Data Enthusiast · Istanbul</strong><br/>
+  <sub>Python · Machine Learning · Local AI · Visual Pipelines</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KynTr4"><img alt="github" src="https://img.shields.io/badge/GitHub-KynTr4-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img alt="vibe" src="https://img.shields.io/badge/vibe-coding-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="ai" src="https://img.shields.io/badge/local-AI-3b82f6?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/python-tinkerer-a855f7?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="status" src="https://img.shields.io/badge/status-experimenting-22d3ee?style=for-the-badge" />
+  <a href="https://github.com/KynTr4"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-KynTr4-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Local_AI_%26_ML-7C3AED?style=for-the-badge" />
+  <img alt="Location" src="https://img.shields.io/badge/Location-Istanbul-3B82F6?style=for-the-badge" />
 </p>
 
 ---
 
-## `> about`
+## About
 
-```bash
-$ boot --user KynTr4
-[ok] loading curiosity modules...
-[ok] mounting local-ai runtime...
-[ok] spawning python experiments...
-[ok] rendering visuals...
-[ok] entering vibe-coding mode...
-welcome to the grid, Miraç.
-```
+I am a software developer based in Istanbul with a strong interest in Python, machine learning, and local AI systems.  
+I enjoy building practical tools, experimenting with data-driven solutions, and creating visual and video generation pipelines.
 
-I build things that feel a little alive: local LLM experiments, Python tools, visual pipelines, weird prototypes, and late-night "what if I try this?" projects.  
-No corporate CV here — just a personal lab with neon lights, too many ideas, and a habit of shipping experiments.
+My work focuses on:
+- Local AI and LLM-based experiments
+- Machine learning and predictive modeling
+- Python automation and backend tools
+- Visual and video generation workflows
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/orb.gif" alt="orb" width="150" />
-  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/neon_grid.gif" alt="neon grid" width="260" />
+I prefer hands-on, iterative development and learning by building.
+
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+**AI / ML**
+
+<p>
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square" />
+  <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+</p>
+
+**Tools**
+
+<p>
+  <img alt="ComfyUI" src="https://img.shields.io/badge/ComfyUI-7C3AED?style=flat-square" />
+  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## `> tech i play with`
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [pedigreeall-ai](https://github.com/KynTr4/pedigreeall-ai) | AI-powered horse racing prediction platform with data collection, ML models, and analytics dashboard. | Python, FastAPI, XGBoost, CatBoost, LightGBM |
+| [MachineLearningProjects](https://github.com/KynTr4/MachineLearningProjects) | Machine learning experiments and notebooks. | Jupyter Notebook |
+| [Python-ile-Docentlik-Projesi](https://github.com/KynTr4/Python-ile-Docentlik-Projesi) | Academic scoring and calculation tool. | Python |
+| [Blackjack-Projesi](https://github.com/KynTr4/Blackjack-Projesi) | Blackjack game implementation. | Python |
+| [dolandirici_sitesi](https://github.com/KynTr4/dolandirici_sitesi) | Web experiment project. | TypeScript |
+| [evil](https://github.com/KynTr4/evil) | Shell experiments and small utilities. | Shell |
+
+Some repositories are forks or learning clones and are part of my learning journey.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="ml" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="xgboost" src="https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square" />
-  <img alt="catboost" src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" />
-  <img alt="lightgbm" src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img alt="ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img alt="comfyui" src="https://img.shields.io/badge/ComfyUI-7C3AED?style=flat-square" />
-  <img alt="ffmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KynTr4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=C9D1F5" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KynTr4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1F5" alt="Top languages" />
 </p>
 
 ---
 
-## `> featured projects`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KynTr4/pedigreeall-ai">pedigreeall-ai</a></h3>
-      <p>AI-powered horse racing prediction platform: data collection, ML models, analytics dashboard.</p>
-      <sub>Python · FastAPI · XGBoost · CatBoost · LightGBM · SQLite</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KynTr4/MachineLearningProjects">MachineLearningProjects</a></h3>
-      <p>Machine learning experiments and notebooks.</p>
-      <sub>Jupyter Notebook</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KynTr4/Python-ile-Docentlik-Projesi">Python-ile-Docentlik-Projesi</a></h3>
-      <p>Academic scoring/calculation tool, Python side.</p>
-      <sub>Python</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KynTr4/Blackjack-Projesi">Blackjack-Projesi</a></h3>
-      <p>Blackjack game built in Python.</p>
-      <sub>Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KynTr4/dolandirici_sitesi">dolandirici_sitesi</a></h3>
-      <p>Web experiment.</p>
-      <sub>TypeScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KynTr4/evil">evil</a></h3>
-      <p>Shell experiments & mischief.</p>
-      <sub>Shell</sub>
-    </td>
-  </tr>
-</table>
-
-> Some repos are forks or learning clones — the originals are still part of the journey.
-
----
-
-## `> hidden layer`
-
-<details>
-<summary>enter the secret room (click)</summary>
+## Contact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/matrix_rain.gif" alt="matrix rain" width="320" />
-</p>
-
-You found the hidden layer.  
-There is no roadmap here, only curiosity, broken prototypes, and the occasional "it actually works" moment.
-
-- 🕶️ neon over minimalism
-- 🌀 experiments over perfection
-- 🤖 local models over cloud dependency
-- 🎮 fun over formal
-
-If you see something strange in my repos, it is probably an experiment. Or a feature. Or both.
-
-</details>
-
----
-
-## `> grid stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KynTr4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05060f&title_color=a855f7&icon_color=22d3ee&text_color=c9d1f5" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KynTr4&layout=compact&theme=tokyonight&hide_border=true&bg_color=05060f&title_color=a855f7&text_color=c9d1f5" alt="langs" />
-</p>
-
----
-
-## `> connect`
-
-<p align="center">
-  <a href="https://github.com/KynTr4"><img alt="github" src="https://img.shields.io/badge/GitHub-KynTr4-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/KynTr4"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-KynTr4-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KynTr4&color=blueviolet&style=flat-square&label=visitors" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=KynTr4&color=7C3AED&style=flat-square&label=profile+views" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/orb.gif" alt="orb" width="120" />
+  <img src="https://raw.githubusercontent.com/KynTr4/KynTr4/refs/heads/main/assets/orb.gif" alt="orb" width="100" />
 </p>
-
-<sub>built with curiosity, caffeine, and a lot of `git commit -m "fix"`</sub>
